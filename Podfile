@@ -1,20 +1,19 @@
 # Uncomment the next line to define a global platform for your project
-platform :ios, '9.0'
+platform :ios, '10.0'
 
-target 'Instagram_Clone' do
+target 'Parstagram' do
   # Comment the next line if you don't want to use dynamic frameworks
   use_frameworks!
 
-  # Pods for Instagram_Clone
+  # Pods for Parstagram
   pod 'Parse'
   pod 'AlamofireImage'
-
-  target 'Instagram_CloneTests' do
+  target 'ParstagramTests' do
     inherit! :search_paths
     # Pods for testing
   end
 
-  target 'Instagram_CloneUITests' do
+  target 'ParstagramUITests' do
     # Pods for testing
   end
 

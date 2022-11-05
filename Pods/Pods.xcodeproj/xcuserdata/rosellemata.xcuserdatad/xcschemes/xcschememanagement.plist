@@ -39,21 +39,21 @@
 			<key>orderHint</key>
 			<integer>3</integer>
 		</dict>
-		<key>Pods-Instagram_Clone-Instagram_CloneUITests.xcscheme</key>
+		<key>Pods-Parstagram-ParstagramUITests.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
 			<integer>6</integer>
 		</dict>
-		<key>Pods-Instagram_Clone.xcscheme</key>
+		<key>Pods-Parstagram.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
 			<integer>5</integer>
 		</dict>
-		<key>Pods-Instagram_CloneTests.xcscheme</key>
+		<key>Pods-ParstagramTests.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
